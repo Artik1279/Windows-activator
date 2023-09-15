@@ -30,6 +30,10 @@
 | Windows 8.1 Pro   | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9 |
 | Windows 7 Pro     | FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4 |
 
-### Если вы не нашли ваше издание то больше ключей находятся здесь:
+**Если вы не нашли ваше издание то больше ключей находятся здесь:**
+*https://learn.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys*
+
+После того как вы заполучили нужный вам ключ, в командную строку необходимо ввести следующую команду:
+
 
 
