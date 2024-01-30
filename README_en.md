@@ -12,7 +12,7 @@ I would like to warn you that all the actions described below are illegal, you c
 
 Today I would like to highlight a fairly simple way to activate Windows. All you need is the ability to write and read.
 
-To begin, open a command prompt (cmd.exe) as an administrator. You can do this by typing cmd in the search, right-clicking on the desired application and selecting "Run as administrator" from the menu.
+To begin, open cmd.exe as an administrator. You can do this by typing cmd in the search, right-clicking on the desired application and selecting "Run as administrator" from the menu.
 
 ![Administrator](imgs/admin.png)
 
