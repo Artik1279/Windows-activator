@@ -21,8 +21,8 @@ Afterwards you should have a command prompt open. Don’t be afraid of it, we wo
 ## 1. Installing a corporate key:
 
 For successful activation, we need to use a public corporate key, they are different for different versions of Windows, below I have listed the most popular ones:
-| Edition | Key |
-|-------------------|---------------------------- --|
+| Edition           | Key                           |
+|-------------------|-------------------------------|
 | Windows 10/11 Pro | W269N-WFGWX-YVC9B-4J6C9-T83GX |
 | Windows 8.1 Pro   | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9 |
 | Windows 7 Pro     | FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4 |
