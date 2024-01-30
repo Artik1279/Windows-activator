@@ -24,8 +24,8 @@ For successful activation, we need to use a public corporate key, they are diffe
 | Edition | Key |
 |-------------------|---------------------------- --|
 | Windows 10/11 Pro | W269N-WFGWX-YVC9B-4J6C9-T83GX |
-| Windows 8.1 Pro | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9 |
-| Windows 7 Pro | FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4 |
+| Windows 8.1 Pro   | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9 |
+| Windows 7 Pro     | FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4 |
 
 If you did not find your edition, then more keys can be found here: *https://learn.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys*
 
