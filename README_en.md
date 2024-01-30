@@ -1,3 +1,8 @@
+# LANGUAGE
+[RU](https://github.com/Artik1279/Windows-activator/blob/main/README.md)
+[EN](https://github.com/Artik1279/Windows-activator/blob/main/README_en.md)
+
+
 # Activate Windows
 
 I know that many Windows users, unfortunately, do not have it activated. Some people still think that the only way to fix this is by spending money on an official key. In fact, this is not the case, and this project is proof of this.
