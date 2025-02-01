@@ -1,2 +1,6 @@
 ## This is KMS activation.
-Just run, the script will activate the system. Must be run as administrator
+
+.exe file is a universal activator.
+(Open source activator.py)
+
+.bat file is intended only for Windows 10/11
